@@ -1,0 +1,1 @@
+export const DB_PASSWORD = "Cr3n3x@1";
